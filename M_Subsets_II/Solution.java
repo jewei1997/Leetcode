@@ -19,7 +19,7 @@ public class Solution {
 
   public static void main(String[] args) {
     Solution S = new Solution();
-    int[] nums1 = {1,2,2};
+    int[] nums1 = {1,2,2,3};
     System.out.println(S.subsetsWithDup(nums1));
 
   }
