@@ -1,0 +1,13 @@
+nums = [1,2,3]
+low = 0
+high = 2
+i = 0
+nums = [1,2,3]
+swap i=0 with low=0
+nums = [1,2,3]
+permute(nums = [1,2,3], low = 1, high = 2)
+  i = 0
+swap i=0 with low=0
+nums = [1,2,3]
+
+  
